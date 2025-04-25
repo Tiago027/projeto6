@@ -40,7 +40,7 @@ Criar uma aplicação simples em **Portugol Studio** que permita ao usuário int
 
 - Nome: Tiago souza
 - Curso: Programação de Jogos Digitais - SENAI Uberlândia
-- Instrutor: (Nome do instrutor)
+- Instrutor: (Tiago souza)
 
 ---
 
